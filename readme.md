@@ -1,1 +1,3 @@
-# YDJS scope and closure chapter1 and chapter 2
+# YDJS scope and closures 
+
+chapter1 and chapter 2
